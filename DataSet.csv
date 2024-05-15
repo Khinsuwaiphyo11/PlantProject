@@ -1,0 +1,201 @@
+Month,Plant Name,Order Town,Customer Age,Count,Price per unit,Total,Promotion Period 
+January,Lucky plant,Seoul,Young,2,6500,13000,No
+January,Aloe Vera,Seoul,Old,5,6000,30000,No
+January,Rubber Plant,Busan,Middle,6,5000,30000,No
+January,Lucky plant,Incheon,Young,8,6500,52000,No
+January,Lucky plant,Daegu,Old,3,6500,19500,No
+January,Aloe Vera,Incheon,Middle,5,6000,30000,No
+January,Rubber Plant,Incheon,Young,9,5000,45000,No
+February,Jade Plant,Busan,Old,3,6500,19500,No
+February,Monstera,Busan,Middle,4,8000,32000,No
+February,Lucky plant,Busan,Young,7,6500,45500,No
+February,Aloe Vera,Busan,Old,8,6000,48000,No
+February,Rubber Plant,Busan,Middle,9,5000,45000,No
+February,Lucky plant,Busan,Old,3,6500,19500,No
+February,Lucky plant,Busan,Old,5,6500,32500,Yes
+February,Aloe Vera,Seoul,Old,7,6000,42000,Yes
+February,Rubber Plant,Seoul,Old,8,5000,40000,Yes
+February,Jade Plant,Busan,Old,2,6500,13000,Yes
+March,Monstera,Incheon,Old,3,8000,24000,Yes
+March,Monstera,Daegu,Old,4,8000,32000,Yes
+March,Monstera,Seoul,Old,5,8000,40000,Yes
+March,Monstera,Seoul,Old,6,8000,48000,Yes
+March,Lucky plant,Busan,Old,7,6500,45500,Yes
+March,Lucky plant,Incheon,Old,8,6500,52000,No
+March,Aloe Vera,Daegu,Old,10,6000,60000,No
+March,Lucky plant,Seoul,Middle,10,6500,65000,No
+March,Lucky plant,Seoul,Middle,10,6500,65000,No
+April,Aloe Vera,Busan,Middle,5,6000,30000,Yes
+April,Lucky plant,Incheon,Middle,5,6500,32500,Yes
+April,Lucky plant,Daegu,Middle,7,6500,45500,Yes
+April,Aloe Vera,Seoul,Middle,8,6000,48000,Yes
+April,Lucky plant,Seoul,Middle,9,6500,58500,Yes
+April,Lucky plant,Busan,Middle,3,6500,19500,Yes
+April,Aloe Vera,Incheon,Middle,5,6000,30000,Yes
+April,Lucky plant,Daegu,Middle,7,6500,45500,Yes
+April,Lucky plant,Seoul,Middle,8,6500,52000,Yes
+April,Aloe Vera,Seoul,Young,2,6000,12000,Yes
+May,Aloe Vera,Busan,Young,3,6000,18000,No
+May,Lucky plant,Incheon,Young,4,6500,26000,No
+May,Lucky plant,Daegu,Young,5,6500,32500,No
+May,Aloe Vera,Seoul,Young,6,6000,36000,No
+May,Lucky plant,Seoul,Young,7,6500,45500,No
+May,Lucky plant,Busan,Young,8,6500,52000,No
+May,Aloe Vera,Incheon,Young,10,6000,60000,No
+May,Lucky plant,Daegu,Young,10,6500,65000,No
+May,Lucky plant,Seoul,Young,10,6500,65000,No
+May,Aloe Vera,Seoul,Young,5,6000,30000,No
+June,Jade Plant,Busan,Middle,5,6500,32500,No
+June,Jade Plant,Incheon,Old,7,6500,45500,No
+June,Jade Plant,Daegu,Young,8,6500,52000,No
+June,Jade Plant,Seoul,Middle,9,6500,58500,No
+June,Jade Plant,Seoul,Old,3,6500,19500,No
+June,Jade Plant,Busan,Young,5,6500,32500,Yes
+June,Jade Plant,Incheon,Middle,7,6500,45500,Yes
+June,Jade Plant,Daegu,Old,8,6500,52000,Yes
+June,Jade Plant,Seoul,Young,2,6500,13000,Yes
+June,Jade Plant,Seoul,Middle,3,6500,19500,Yes
+June,Jade Plant,Busan,Old,4,6500,26000,Yes
+June,Lucky plant,Incheon,Young,5,6500,32500,Yes
+June,Aloe Vera,Daegu,Middle,6,6000,36000,Yes
+June,Lucky plant,Seoul,Old,7,6500,45500,Yes
+June,Aloe Vera,Seoul,Young,8,6000,48000,Yes
+June,Aloe Vera,Seoul,Young,10,6000,60000,Yes
+July,Areca Palm,Seoul,Middle,10,7000,70000,No
+July,Areca Palm,Seoul,Old,10,7000,70000,No
+July,Areca Palm,Seoul,Young,5,7000,35000,No
+July,Areca Palm,Seoul,Middle,5,7000,35000,No
+July,Areca Palm,Seoul,Old,7,7000,49000,No
+July,Areca Palm,Busan,Young,8,7000,56000,No
+July,Rubber Plant,Busan,Middle,9,5000,45000,No
+July,Rubber Plant,Busan,Young,3,5000,15000,No
+July,Rubber Plant,Busan,Middle,5,5000,25000,No
+July,Rubber Plant,Busan,Old,7,5000,35000,No
+July,Rubber Plant,Busan,Young,8,5000,40000,No
+July,Aloe Vera,Busan,Middle,2,6000,12000,No
+July,Aloe Vera,Busan,Old,3,6000,18000,No
+July,Aloe Vera,Busan,Young,4,6000,24000,No
+August,Monstera,Busan,Middle,5,8000,40000,Yes
+August,Monstera,Busan,Young,6,8000,48000,Yes
+August,Monstera,Busan,Young,7,8000,56000,Yes
+August,Monstera,Daegu,Young,8,8000,64000,Yes
+August,Monstera,Daegu,Young,10,8000,80000,Yes
+August,Monstera,Daegu,Young,10,8000,80000,Yes
+August,Monstera,Daegu,Young,10,8000,80000,Yes
+August,Monstera,Daegu,Young,5,8000,40000,Yes
+August,Monstera,Daegu,Young,5,8000,40000,Yes
+August,Monstera,Daegu,Young,7,8000,56000,Yes
+August,Monstera,Daegu,Young,8,8000,64000,Yes
+August,Monstera,Daegu,Young,9,8000,72000,Yes
+August,Monstera,Daegu,Young,3,8000,24000,Yes
+August,Monstera,Incheon,Young,5,8000,40000,Yes
+August,Monstera,Incheon,Young,7,8000,56000,Yes
+August,Monstera,Incheon,Young,8,8000,64000,Yes
+September,Jade Plant,Incheon,Young,2,6500,13000,Yes
+September,Lucky plant,Incheon,Young,3,6500,19500,Yes
+September,Aloe Vera,Incheon,Middle,4,6000,24000,Yes
+September,Jade Plant,Incheon,Middle,5,6500,32500,Yes
+September,Lucky plant,Incheon,Middle,6,6500,39000,Yes
+September,Aloe Vera,Incheon,Middle,7,6000,42000,Yes
+September,Jade Plant,Daegu,Middle,8,6500,52000,Yes
+September,Lucky plant,Seoul,Middle,10,6500,65000,Yes
+September,Aloe Vera,Seoul,Middle,10,6000,60000,Yes
+September,Rubber Plant,Busan,Middle,10,5000,50000,
+September,Rubber Plant,Incheon,Middle,5,5000,25000,
+September,Jade Plant,Daegu,Old,5,6500,32500,No
+September,Lucky plant,Incheon,Old,7,6500,45500,No
+September,Aloe Vera,Daegu,Old,8,6000,48000,No
+September,Rubber Plant,Seoul,Old,9,5000,45000,No
+September,Rubber Plant,Seoul,Old,3,5000,15000,No
+September,Jade Plant,Busan,Old,5,6500,32500,No
+September,Lucky plant,Incheon,Old,7,6500,45500,No
+September,Aloe Vera,Daegu,Old,8,6000,48000,No
+September,Rubber Plant,Incheon,Old,2,5000,10000,No
+September,Rubber Plant,Daegu,Old,3,5000,15000,No
+October,Lucky Bamboo,Seoul,Old,4,7000,28000,No
+October,Lucky Bamboo,Seoul,Old,5,7000,35000,No
+October,Lucky Bamboo,Busan,Old,6,7000,42000,No
+October,Lucky Bamboo,Incheon,Old,7,7000,49000,No
+October,Lucky Bamboo,Daegu,Old,8,7000,56000,No
+October,Lucky Bamboo,Daegu,Old,10,7000,70000,No
+October,Lucky Bamboo,Incheon,Old,10,7000,70000,No
+October,Rubber Plant,Daegu,Old,10,5000,50000,No
+October,Lucky plant,Seoul,Young,5,6500,32500,No
+October,Lucky plant,Seoul,Young,5,6500,32500,No
+October,Rubber Plant,Busan,Young,7,5000,35000,No
+October,Lucky plant,Incheon,Young,8,6500,52000,No
+October,Lucky plant,Daegu,Young,9,6500,58500,No
+October,Rubber Plant,Daegu,Young,3,5000,15000,No
+October,Lucky plant,Incheon,Young,5,6500,32500,No
+October,Lucky plant,Daegu,Young,7,6500,45500,No
+October,Lucky plant,Seoul,Young,8,6500,52000,No
+October,Lucky plant,Seoul,Young,2,6500,13000,No
+October,Rubber Plant,Daegu,Young,3,5000,15000,No
+October,Lucky plant,Incheon,Young,4,6500,26000,No
+October,Lucky plant,Daegu,Middle,5,6500,32500,No
+October,Rubber Plant,Seoul,Middle,6,5000,30000,No
+October,Lucky plant,Seoul,Middle,7,6500,45500,No
+October,Lucky plant,Busan,Old,8,6500,52000,No
+November,Monstera,Incheon,Old,10,8000,80000,Yes
+November,Monstera,Daegu,Old,10,8000,80000,No
+November,Monstera,Daegu,Young,10,8000,80000,Yes
+November,Jade Plant,Incheon,Young,5,6500,32500,No
+November,Lucky plant,Daegu,Young,5,6500,32500,Yes
+November,Aloe Vera,Seoul,Middle,7,6000,42000,No
+November,Jade Plant,Seoul,Middle,8,6500,52000,Yes
+November,Lucky plant,Daegu,Middle,9,6500,58500,No
+November,Rubber Plant,Incheon,Old,3,5000,15000,Yes
+November,Monstera,Daegu,Old,5,8000,40000,No
+November,Jade Plant,Seoul,Old,7,6500,45500,Yes
+November,Lucky plant,Seoul,Young,8,6500,52000,No
+November,Aloe Vera,Busan,Young,2,6000,12000,Yes
+November,Jade Plant,Incheon,Young,3,6500,19500,No
+November,Lucky plant,Daegu,Middle,4,6500,26000,Yes
+November,Rubber Plant,Daegu,Middle,5,5000,25000,No
+November,Monstera,Incheon,Middle,6,8000,48000,Yes
+November,Jade Plant,Daegu,Old,7,6500,45500,No
+November,Lucky plant,Seoul,Old,8,6500,52000,Yes
+November,Aloe Vera,Seoul,Old,10,6000,60000,No
+November,Jade Plant,Daegu,Young,10,6500,65000,Yes
+November,Lucky plant,Incheon,Young,10,6500,65000,No
+November,Rubber Plant,Daegu,Young,5,5000,25000,Yes
+December,Aloe Vera,Seoul,Young,5,6000,30000,Yes
+December,Aloe Vera,Seoul,Middle,7,6000,42000,Yes
+December,Monstera,Busan,Middle,8,8000,64000,Yes
+December,Monstera,Incheon,Middle,9,8000,72000,Yes
+December,Areca Palm,Daegu,Old,3,7000,21000,Yes
+December,Areca Palm,Daegu,Old,5,7000,35000,Yes
+December,Areca Palm,Incheon,Old,7,7000,49000,Yes
+December,Lucky Bamboo,Daegu,Young,8,7000,56000,Yes
+December,Lucky Bamboo,Seoul,Young,2,7000,14000,Yes
+December,Bonsei,Seoul,Young,3,5000,15000,Yes
+December,Bonsei,Daegu,Young,4,5000,20000,Yes
+December,Bonsei,Incheon,Young,5,5000,25000,Yes
+December,Bonsei,Daegu,Middle,6,5000,30000,Yes
+December,Lucky plant,Seoul,Middle,7,6500,45500,Yes
+December,Aloe Vera,Seoul,Middle,8,6000,48000,Yes
+December,Rubber Plant,Busan,Old,10,5000,50000,Yes
+December,Lucky plant,Incheon,Old,10,6500,65000,Yes
+December,Lucky plant,Daegu,Old,10,6500,65000,Yes
+December,Aloe Vera,Daegu,Young,5,6000,30000,Yes
+December,Rubber Plant,Incheon,Young,5,5000,25000,Yes
+December,Jade Plant,Daegu,Young,7,6500,45500,Yes
+December,Monstera,Seoul,Middle,8,8000,64000,Yes
+December,Lucky plant,Seoul,Young,9,6500,58500,Yes
+December,Aloe Vera,Daegu,Young,3,6000,18000,Yes
+December,Lucky plant,Incheon,Young,5,6500,32500,Yes
+December,Aloe Vera,Daegu,Middle,7,6000,42000,Yes
+December,Rubber Plant,Seoul,Middle,8,5000,40000,Yes
+December,Lucky plant,Seoul,Middle,2,6500,13000,Yes
+December,Lucky plant,Busan,Old,3,6500,19500,Yes
+December,Aloe Vera,Incheon,Old,4,6000,24000,Yes
+December,Rubber Plant,Daegu,Old,5,5000,25000,Yes
+December,Jade Plant,Daegu,Young,6,6500,39000,Yes
+December,Monstera,Incheon,Young,7,8000,56000,Yes
+December,Lucky plant,Daegu,Young,8,6500,52000,Yes
+December,Aloe Vera,Seoul,Young,10,6000,60000,Yes
+December,Bonsei,Seoul,Young,10,5000,50000,Yes
+December,Bonsei,Daegu,Young,10,5000,50000,Yes
+December,Bonsei,Incheon,Middle,5,5000,25000,Yes
+December,Lucky Bamboo,Daegu,Middle,5,7000,35000,Yes
+December,Lucky Bamboo,Seoul,Middle,5,7000,35000,Yes
